@@ -1,5 +1,5 @@
 #include<studio.h>
 void main()
 {
-         printf("hello earth")
+         printf("hello earth");
 }
